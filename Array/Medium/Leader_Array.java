@@ -20,7 +20,8 @@ public class Leader_Array {
 
     private static List<Integer> leaders(int[] arr) {
         
-        List<Integer> list = new ArrayList()<>();
+      List<Integer> list = new ArrayList<>();
+
         
         int max = Integer.MIN_VALUE;
         
